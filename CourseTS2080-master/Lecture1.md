@@ -19,12 +19,12 @@ Encapsulation is bundling data, like a class. Instead of writing 100 lines of co
 
 ## Abstraction
 
-Abstraction is 
+Abstraction is in the middle of Encapsulation and Inheretance. Prevents code repetition, Improves flexibility, Working in large teams.
 
 ## Inheritance
 
-Inheritance is 
+Inheritance is when a subclass takes some methods from the base class. creates new classes from already created classes. 
 
 ## Polymorphism
 
-Polymorphism is 
+Polymorphism is method overriding.
